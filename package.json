@@ -2,7 +2,7 @@
   "name": "trash-react-14",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "./trash-react-14/",
   "dependencies": {
     "react": "^16.6.1",
     "react-dom": "^16.6.1",
