@@ -1,3 +1,8 @@
+## Build Directory ##
+```
+    "build": "react-scripts build && rm -rf docs && mv build docs",
+```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
